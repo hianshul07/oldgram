@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 
 # Screenshots
 
-<img ser='/src/screentshots/screencapture-localhost-5173-2024-11-25-22_59_48.png>
+<img src='/src/screentshots/screencapture-localhost-5173-2024-11-25-22_59_48.png'>
+
