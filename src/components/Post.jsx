@@ -1,12 +1,9 @@
 /* eslint-disable react/prop-types */
-// import ProfileTab from './ProfileTab';
-// import postImg from '../assets/post-image-1.png';
 import Icons from './Icons';
 
 const Post = ({postImg, pfp, name, userName, location, comment}) => {
 	return (
 		<div className="bg-white text-base leading-none mb-7 pb-4">
-			{/* <ProfileTab /> */}
       <div className="p-4 flex gap-2 items-center">
 			<img src={pfp} alt="profile picture" className="h-10 " />
 			<div className="">
